@@ -53,11 +53,26 @@ This data science project aims to perform exploratory market analysis on the Aut
     <p align="justify">&nbsp;&nbsp;The results indicate that between 2014 and 2015, both the annual average reported market and selling prices of vehicles rose in value. Moreover, analyzing the annual average reported market and selling prices during that time reveals a fascinating trend. In 2014, the average market price was $12,945.37, while the average selling price was slightly lower at $12,735.92, resulting in a disparity of $209.45. Meanwhile, in 2015, the average market price increased to $13,903.61, and the average selling price also increased to $13,768.14, resulting in a smaller disparity of $135.47. These findings suggest that vehicles are being sold at prices closer to their market price in 2015 compared to 2014; this implies that the disparity between the average reported market prices and the average selling prices of vehicles is narrowing over time.</p>
   </div>
   <br>
+  <p><i>What are the quarterly sales figures over the years?</i></p>
   <div>
-    <p><i>What are the quarterly sales figures over the years?</i></p>
+    <div align="center">
+      <img src="https://raw.githubusercontent.com/heischichou/Vehicle-Sales-Analysis/main/assets/Quarterly%20Sales%202014.png"></img>
+    </div>
+    <br>
+    <p align="justify">&nbsp;&nbsp;The results indicate a significant increase in sales from the beginning of 2014 to its end, with Q4 showing a substantial spike in total sales and the number of vehicles sold compared to earlier quarters.</p>
+    <p align="justify">In Q1 of 2014, the automotive market saw a strong performance in January, recording $1.56 billion in sales and 117,354 vehicles sold. However, sales figures in February experienced a drastic drop in sales, presenting only $10,500 in revenue from 1 vehicle sold; this perceived sharp plunge is likely due to an unclear external factor.</p>
+    <p align="justify">The absence of sales data for Q3 and Q4 limits the comprehensive analysis of the year's sales performance. Alternatively, it could suggest that potential seasonal variations or market-specific influences may have influenced consumer purchasing behavior throughout the year. Further accounting and analysis could provide deeper insights into the underlying factors driving these fluctuations and provide a more comprehensive explanation.</p>
+  </div>
+  <br>
+  <div>
     <div align="center">
       <img src="https://raw.githubusercontent.com/heischichou/Vehicle-Sales-Analysis/main/assets/Quarterly%20Sales%202015.png"></img>
     </div>
+    <br>
+    <p align="justify">&nbsp;&nbsp;The results show sales volatility for 2015, with periods of growth followed by declines. In Q1 of 2015, sales figures showed a strong start in January, amounting to $1.55 billion in sales and 117,354 vehicles sold. February continued this positive trend as sales increased to $1.87 billion and 137,587 vehicles sold. However, March saw a significant decline in sales, dropping to $529,028,047 with just 39,312 units sold.</p>
+    <p align="justify">In Q2, sales figures indicate a slight recovery, with May recording $598 million in sales with 42,882 vehicles sold. June represented a further recovery as sales revenue reached $1.24 billion after 84,152 units sold.</p>
+    <p align="justify">However, Q3 of 2015 started with a significant marked decline from the previous months, with July finding only $18 million in sales from 1,075 vehicles sold.</p>
+    <p align="justify">The results overall demonstrate the fluctuations in vehicle sales and suggest potential seasonal trends or external factors that may have influenced sales patterns in the automotive market during 2015, with the second quarter showing the best performance.</p>
   </div>
   <br>
   <div>
@@ -164,5 +179,7 @@ This data science project aims to perform exploratory market analysis on the Aut
     <div align="center">
       <img src="https://raw.githubusercontent.com/heischichou/Vehicle-Sales-Analysis/main/assets/Median%20Mileage%20by%20Vehicle%20Body%20Type.png"></img>
     </div>
+    <br>
+    <p align="justify">&nbsp;&nbsp;These results show the highest median mileage figures among different vehicle types. In terms of median mileage, Xtracabs has the highest at 161,950 miles. Following the Xtracab, the Cab Plus and Ram Van types have the second and third-highest median mileages, with 120,154 and 106,595 miles, respectively. The remaining highest median mileage vehicle types are Extended Cabs at 105,499 miles, Club Cabs at 104,536, King Cabs at 95,739 miles, Mega Cabs at 93,571 miles, Quad Cabs at 85,999 miles, Super Cabs at 81,287 miles, and lastly, Crew Cabs at 71,962 miles. These results suggest that Cabs of varying configurations tend to have higher mileage versus other vehicle types, such as Sedans and SUVs.</p>
   </div>
 </details>
